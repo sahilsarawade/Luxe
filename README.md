@@ -1,2 +1,14 @@
 # Luxe
-A modern, production-ready e-commerce frontend built with React, featuring user and admin flows, responsive UI, protected routes, and centralized state management. Uses mock APIs and structured routing, allowing easy replacement with a MongoDB and Express.js backend later.
+
+This is my e-commerce project built using React, TailwindCSS, and Vite.
+
+## Features
+- Responsive design
+- Dynamic product listings
+- Shopping cart functionality
+
+## Getting Started
+1. Clone the repo
+2. Install dependencies: `npm install`
+3. Run: `npm start`
+
